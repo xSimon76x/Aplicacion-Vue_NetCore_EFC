@@ -1,0 +1,183 @@
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.exe
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.deps.json
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.runtimeconfig.json
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.runtimeconfig.dev.json
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.pdb
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csprojAssemblyReference.cache
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.AssemblyInfoInputs.cache
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.AssemblyInfo.cs
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.RazorTargetAssemblyInfo.cache
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\staticwebassets\backend-tareas.StaticWebAssets.Manifest.cache
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\staticwebassets\backend-tareas.StaticWebAssets.xml
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.pdb
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.genruntimeconfig.cache
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csproj.CopyComplete
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csproj.CoreCompileInputs.cache
+C:\Users\tomir\Desktop\Vue\backend-tareas\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.StaticWebAssets.xml
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.exe
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.deps.json
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.runtimeconfig.json
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.runtimeconfig.dev.json
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.pdb
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.AssemblyInfo.cs
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\staticwebassets\backend-tareas.StaticWebAssets.Manifest.cache
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.RazorTargetAssemblyInfo.cache
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csproj.CopyComplete
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.dll
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.pdb
+C:\Users\simon\OneDrive\Escritorio\vue-backend-tareas-master\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.genruntimeconfig.cache
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.StaticWebAssets.xml
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.exe
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.deps.json
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.runtimeconfig.json
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.runtimeconfig.dev.json
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\backend-tareas.pdb
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csproj.AssemblyReference.cache
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.AssemblyInfoInputs.cache
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.AssemblyInfo.cs
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csproj.CoreCompileInputs.cache
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\staticwebassets\backend-tareas.StaticWebAssets.Manifest.cache
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.RazorTargetAssemblyInfo.cache
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.csproj.CopyComplete
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.dll
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.pdb
+D:\Proyectos Github\Aplicacion Vue_NetCore_EFC\Aplicacion FrondAndBack-Git\backend-tareas\obj\Debug\netcoreapp3.1\backend-tareas.genruntimeconfig.cache
