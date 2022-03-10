@@ -23,10 +23,19 @@
               </div>
             </div>
             <br />
+            <div class="text-center">
+              <div
+                v-if="loading"
+                class="spinner-border text-success"
+                role="status"
+              >
+                <span class="visually-hidden"></span>
+              </div>
+            </div>
             <h3 v-if="listTareas.length == 0" class="text-center">
               No hay tareas para realizar
             </h3>
-            <ul class="list-group">
+            <ul v-if="!loading" class="list-group">
               <li
                 v-for="(tarea, index) of listTareas"
                 :key="index"
@@ -47,7 +56,7 @@
                 {{ tarea.nombre }}
                 <span
                   class="text-danger cursor"
-                  v-on:click="eliminarTarea(index)"
+                  v-on:click="eliminarTarea(tarea.id)"
                 >
                   |<i class="fas fa-trash-alt"></i>
                 </span>
@@ -69,6 +78,7 @@ export default {
     return {
       tarea: "",
       listTareas: [],
+      loading: false,
     };
   },
   methods: {
@@ -77,11 +87,34 @@ export default {
         nombre: this.tarea,
         estado: false,
       };
-      this.listTareas.push(tarea);
+      this.loading = true;
+      axios
+        .post("https://localhost:44314/api/Tarea/", tarea)
+        .then((response) => {
+          console.log(response);
+          this.loading = false;
+          this.obtenerTareas();
+        })
+        .catch((error) => {
+          console.log(error);
+          this.loading = false;
+        });
       this.tarea = "";
     },
-    eliminarTarea(index) {
-      this.listTareas.splice(index, 1);
+    eliminarTarea(id) {
+      // this.listTareas.splice(index, 1);
+      this.loading = true;
+      axios
+        .delete("https://localhost:44314/api/Tarea/" + id)
+        .then((response) => {
+          console.log(response);
+          this.obtenerTareas();
+          this.loading = false;
+        })
+        .catch((error) => {
+          console.log(error);
+          this.loading = false;
+        });
     },
     editarTarea(tarea, index) {
       this.listTareas[index].estado = !tarea.estado;
@@ -89,7 +122,7 @@ export default {
     obtenerTareas() {
       axios
         .get("https://localhost:44314/api/Tarea")
-        .then((response) => console.log(response));
+        .then((response) => (this.listTareas = response.data));
     },
   },
   created: function () {
