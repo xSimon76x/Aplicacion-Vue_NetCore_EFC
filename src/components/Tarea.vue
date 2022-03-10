@@ -61,6 +61,8 @@
 </template>
 
 <script>
+import axios from "axios";
+
 export default {
   name: "Tarea",
   data() {
@@ -84,6 +86,14 @@ export default {
     editarTarea(tarea, index) {
       this.listTareas[index].estado = !tarea.estado;
     },
+    obtenerTareas() {
+      axios
+        .get("https://localhost:44314/api/Tarea")
+        .then((response) => console.log(response));
+    },
+  },
+  created: function () {
+    this.obtenerTareas();
   },
 };
 </script>
