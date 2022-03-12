@@ -92,7 +92,10 @@ export default {
       };
       this.loading = true;
       axios
-        .post(URL, tarea)
+        .post(
+          "https://backendservice-tareasproyectonet.azurewebsites.net/api/Tarea",
+          tarea
+        )
         .then((response) => {
           console.log(response);
           this.loading = false;
