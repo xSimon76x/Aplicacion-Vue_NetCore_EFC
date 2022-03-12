@@ -100,13 +100,16 @@ export default {
         })
         .catch((error) => {
           if (error.response) {
-            console.log("Response: " + error.response);
+            console.log("Response: ");
+            console.log(+error.response);
           }
           if (error.request) {
-            console.log("Request: " + error.request);
+            console.log("Request: ");
+            console.log(error.request);
           }
           if (error.menssage) {
-            console.log("Mensaje: " + error.menssage);
+            console.log("Mensaje: ");
+            console.log(error.menssage);
           }
 
           this.loading = false;
