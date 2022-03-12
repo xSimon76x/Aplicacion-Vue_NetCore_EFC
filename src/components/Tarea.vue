@@ -92,7 +92,10 @@ export default {
       };
       this.loading = true;
       axios
-        .post(URL, tarea)
+        .post(URL, {
+          nombre: this.tarea,
+          estado: false,
+        })
         .then((response) => {
           console.log(response);
           this.loading = false;
