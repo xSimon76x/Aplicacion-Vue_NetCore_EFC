@@ -9,7 +9,7 @@
             <div class="input-group">
               <input
                 type="text"
-                v-model="tareaInput"
+                v-model="tarea"
                 class="form-control form-control-lg"
                 placeholder="Agregar tarea"
               />
@@ -79,7 +79,7 @@ export default {
   name: "Tarea",
   data() {
     return {
-      tareaInput: "",
+      tarea: "",
       listTareas: [],
       loading: false,
     };
@@ -87,7 +87,7 @@ export default {
   methods: {
     agregarTarea() {
       const tarea = {
-        nombre: this.tareaInput,
+        nombre: this.tarea,
         estado: false,
       };
       this.loading = true;
