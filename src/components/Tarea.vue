@@ -92,17 +92,23 @@ export default {
       };
       this.loading = true;
       axios
-        .post(
-          "https://backendservice-tareasproyectonet.azurewebsites.net/api/Tarea",
-          tarea
-        )
+        .post(URL, tarea)
         .then((response) => {
           console.log(response);
           this.loading = false;
           this.obtenerTareas();
         })
         .catch((error) => {
-          console.log(error);
+          if (error.response) {
+            console.log("Response: " + error.response);
+          }
+          if (error.request) {
+            console.log("Request: " + error.request);
+          }
+          if (error.menssage) {
+            console.log("Mensaje: " + error.menssage);
+          }
+
           this.loading = false;
         });
       this.tarea = "";
