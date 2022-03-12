@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HuWgROOSTZwaNi75CgcFa0Y+c08FjE14KHvE7qfgWWpoksvH0xycfR5tJz8DjpVDTtOP0z17HirBrq9k1t0IOQ==",
+  "dgSpecHash": "fC69omTwQZwJPvV3b1SgkK0dbJY0M/p4G6p7JxoYCEt8CWFn9f0P4LnEG3jYWdVHySxRa8zkY4WMfuqZ++IQMg==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos Github\\Aplicacion Vue_NetCore_EFC\\Back-end\\backend-tareas\\backend-tareas.csproj",
+  "projectFilePath": "D:\\Proyectos Github\\Aplicacion Vue_NetCore_EFC\\Aplicacion FrondAndBack-Git\\backend-tareas\\backend-tareas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simon\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\simon\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
