@@ -9,7 +9,7 @@
             <div class="input-group">
               <input
                 type="text"
-                v-model="tarea"
+                v-model="tareaInput"
                 class="form-control form-control-lg"
                 placeholder="Agregar tarea"
               />
@@ -79,7 +79,7 @@ export default {
   name: "Tarea",
   data() {
     return {
-      tarea: "",
+      tareaInput: "",
       listTareas: [],
       loading: false,
     };
@@ -87,15 +87,12 @@ export default {
   methods: {
     agregarTarea() {
       const tarea = {
-        nombre: this.tarea,
+        nombre: this.tareaInput,
         estado: false,
       };
       this.loading = true;
       axios
-        .post(URL, {
-          nombre: this.tarea,
-          estado: false,
-        })
+        .post(URL, tarea)
         .then((response) => {
           console.log(response);
           this.loading = false;
